@@ -1,3 +1,4 @@
+""" This is just a file - created by John """
 from add_three import add_three
 
 def main():
